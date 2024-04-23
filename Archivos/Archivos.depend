@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1689374056 source:c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\topicos\proyectos\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../Fecha/Fecha.h"
+	"../Cadena/Cadena.c"
+
+1682197232 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\topicos\proyectos\fecha\fecha.h
+	<stdbool.h>
+
+1689382815 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\topicos\proyectos\cadena\cadena.c
+	<ctype.h>
+	<stdio.h>
+	"Cadena.h"
+
+1689379976 c:\users\juanc\onedrive - universidad nacional de la matanza\2c 2023\topicos\proyectos\cadena\cadena.h
+	<stdbool.h>
+
